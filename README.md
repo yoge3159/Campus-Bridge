@@ -97,4 +97,4 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 
 ```bash
 # Clone the repository
-git clone https://github.com/govardhan1703/campus-bridge.git
+git clone https://github.com/yoge3159/campus-bridge.git
